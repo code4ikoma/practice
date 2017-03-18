@@ -1,4 +1,5 @@
 ikoma
 shiraniwadai
 gakken-kita-ikoma
+gakken-kita-ikoma2
 gakken-nara-tomigaoka
